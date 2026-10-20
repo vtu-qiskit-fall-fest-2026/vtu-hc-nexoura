@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Nexoura** · Team ID `VTU-QFF-HC-0165` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Nexoura)
+[⬆ Back to Top](#nexoura)
 
 </div>
